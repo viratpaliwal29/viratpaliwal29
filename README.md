@@ -2,52 +2,126 @@
 
 ### QA Engineer | Manual & Selenium Automation (Java)
 
-I am a passionate QA Engineer with hands-on experience in **Manual Testing** and **Selenium Automation using Java**.  
-I have worked on **real-world web applications** including **E-commerce** and **CRM systems**.
+QA Engineer with hands-on experience in **Manual Testing** and **Selenium Automation using Java**.  
+Experienced in functional, regression, smoke, sanity, system and UAT testing, along with defect tracking and test automation.
+
+I work with web applications including **E-commerce and CRM systems** and focus on delivering reliable software quality.
 
 ---
 
-## 🔧 Skills & Tools
-- Manual Testing (Test Cases, Bug Reports, RTM, STLC)
-- Selenium WebDriver (Java)
+## 🧪 QA Skills
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- System & Integration Testing
+- UAT
+- Test Case Design & Execution
+- Defect Reporting & Tracking
+- SDLC & STLC
+- Agile / Scrum
+
+---
+
+## 🛠️ Automation & Tools
+
+- Java
+- Selenium WebDriver
 - TestNG
 - Maven
 - Page Object Model (POM)
+- Cypress
+- Cucumber
 - Git & GitHub
-- HTML basics
-- SDLC & Agile methodology
+- JIRA
+- Postman
+- JMeter
 
 ---
 
-## 🧪 Automation Projects
-### 🔹 Demo Web Shop Automation
-- End-to-end Selenium automation framework
-- Automated user flow: navigation, page validations
-- Tech stack: Java, Selenium, TestNG, Maven, POM  
-👉 Repo: https://github.com/viratpaliwal29/DemoWebShopAutomation
+## 🚀 Automation Projects
 
-### 🔹 VTiger CRM Automation
-- CRM application automation framework
-- Real-world enterprise application testing
-- Tech stack: Java, Selenium, TestNG  
-👉 Repo: https://github.com/viratpaliwal29/vtiger-framework
+### 🔹 OrangeHRM Selenium Test Automation
+
+Selenium WebDriver automation framework built using Java.
+
+**Tech Stack:** Java, Selenium WebDriver, TestNG, Maven, POM
+
+👉 [View Repository](https://github.com/viratpaliwal29/OrangeHRM-Selenium-Test-Automation)
 
 ---
 
-## 📝 Manual Testing Portfolio
+### 🔹 DemoWebShop Automation
+
+End-to-end Selenium automation framework for an e-commerce application.
+
+**Tech Stack:** Java, Selenium, TestNG, Maven, POM
+
+👉 [View Repository](https://github.com/viratpaliwal29/DemoWebShopAutomation)
+
+---
+
+### 🔹 VTiger CRM Automation Framework
+
+Hands-on CRM automation project demonstrating Java and Selenium-based test automation.
+
+**Tech Stack:** Java, Selenium, TestNG
+
+👉 [View Repository](https://github.com/viratpaliwal29/vtiger-framework)
+
+---
+
+## 🌐 Other Project
+
+### 🔹 Mini E-Commerce Spring Boot
+
+Mini e-commerce web application developed using Spring Boot, HTML and CSS.
+
+👉 [View Repository](https://github.com/viratpaliwal29/mini-ecommerce-springboot)
+
+---
+
+## 📋 Manual Testing
+
+My manual testing experience includes:
+
+- Requirement analysis
+- Test scenario preparation
 - Test case design
-- Bug lifecycle
-- Smoke & Regression testing
-- Test plan & RTM  
-*(Manual testing portfolio repository coming soon)*
+- Test case execution
+- Functional testing
+- Regression testing
+- Smoke & sanity testing
+- Defect identification and tracking
+- Test documentation
+- Release validation
 
 ---
 
-## 📫 Contact Me
-- 📍 Location: Delhi NCR
-- 📧 Email: virat.paliwal29@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/virat-qa/
+## 🌐 Portfolio
+
+👉 **[View My QA Portfolio](https://viratpaliwal29.github.io/)**
 
 ---
 
-⭐ *I am actively seeking opportunities as a QA Engineer / QA Intern.*
+## 📫 Contact
+
+📍 **Noida, India**
+
+📧 **virat.paliwal29@gmail.com**
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/virat-qa/)**
+
+🌐 **[Portfolio](https://viratpaliwal29.github.io/)**
+
+💻 **[GitHub](https://github.com/viratpaliwal29)**
+
+---
+
+### 🎯 Career Objective
+
+I am actively seeking opportunities as a **QA Engineer / Software Test Engineer**, where I can contribute to software quality through manual testing and test automation.
+
+⭐ Thanks for visiting my profile!
